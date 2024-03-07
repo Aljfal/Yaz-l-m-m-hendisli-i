@@ -1,8 +1,12 @@
 Küçük Dünya
 1. Giriş:
-Küçük Dünya projesi, Reddit platformuna benzeyen, Etkileşimli iletişim platformu, kullanıcıların birbirleriyle ve platformdaki içerikle etkileşimde bulunmalarını sağlayan dijital platformların bir türüdür. Bu platformlar metinler, resimler, videolar, sesler ve benzeri çeşitli medya türlerini içerir ve kullanıcıların yorumlar, beğeniler, paylaşımlar, özel mesajlar ve diğer araçlar aracılığıyla bu medyalarla ve birbirleriyle etkileşimde bulunmalarına izin verir. Bu platformlar, sosyal ağ kavramına dayanır ve kullanıcıların iletişim kurmalarını, fikirleri ve bilgileri paylaşmalarını sağlayan etkileşimli bir ortam oluşturmayı amaçlar.
+Küçük Dünya projesi, Reddit platformuna benzeyen, Etkileşimli iletişim platformu, kullanıcıların birbirleriyle ve platformdaki içerikle etkileşimde bulunmalarını sağlayan dijital platformların bir türüdür. 
+Bu platformlar metinler, resimler, videolar, sesler ve benzeri çeşitli medya türlerini içerir ve kullanıcıların
+ yorumlar, beğeniler, paylaşımlar, özel mesajlar ve diğer araçlar aracılığıyla bu medyalarla ve birbirleriyle etkileşimde bulunmalarına izin verir.
+ Bu platformlar, sosyal ağ kavramına dayanır ve kullanıcıların iletişim kurmalarını, fikirleri ve bilgileri paylaşmalarını sağlayan etkileşimli bir ortam oluşturmayı amaçlar.
 
 Gereksinimler:
+
 •	Hesap Oluşturma: Kullanıcılar platformda hesap oluşturabilir.
 •	Giriş Yapma: Kullanıcılar, oluşturdukları hesaplara giriş yapabilir.
 •	Gönderi Paylaşımı: Kullanıcılar metin, resim ve video gibi içerikleri platformda paylaşabilir.
