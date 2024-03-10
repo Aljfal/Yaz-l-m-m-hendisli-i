@@ -1,11 +1,11 @@
-Küçük Dünya
-1. Giriş:
+# Küçük Dünya
+# 1. Giriş:
 Küçük Dünya projesi, Reddit platformuna benzeyen, Etkileşimli iletişim platformu, kullanıcıların birbirleriyle ve platformdaki içerikle etkileşimde bulunmalarını sağlayan dijital platformların bir türüdür. 
 Bu platformlar metinler, resimler, videolar, sesler ve benzeri çeşitli medya türlerini içerir ve kullanıcıların
  yorumlar, beğeniler, paylaşımlar, özel mesajlar ve diğer araçlar aracılığıyla bu medyalarla ve birbirleriyle etkileşimde bulunmalarına izin verir.
  Bu platformlar, sosyal ağ kavramına dayanır ve kullanıcıların iletişim kurmalarını, fikirleri ve bilgileri paylaşmalarını sağlayan etkileşimli bir ortam oluşturmayı amaçlar.
 
-Gereksinimler:
+# Gereksinimler:
 
 •	Hesap Oluşturma: Kullanıcılar platformda hesap oluşturabilir.
 •	Giriş Yapma: Kullanıcılar, oluşturdukları hesaplara giriş yapabilir.
@@ -18,7 +18,7 @@ Gereksinimler:
 •	Hesap Takibi: Kullanıcılar, diğer kullanıcıların hesaplarını takip edebilir.
 •	Özel Mesajlaşma: Kullanıcılar, platformda özel mesajlar yoluyla birbirleriyle iletişim kurabilir.
 
-#Proje Planı:
+# Proje Planı:
 ![لقطة شاشة 2024-03-10 221630](https://github.com/Aljfal/Yaz-l-m-m-hendisli-i/assets/161582094/0b462078-de91-405c-8cef-2ff322255265)
 
 
